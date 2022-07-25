@@ -1,0 +1,8 @@
+D:\Asp.net\Numbers\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+D:\Asp.net\Numbers\Numbers\obj\Debug\Numbers.csproj.SuggestedBindingRedirects.cache
+D:\Asp.net\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+D:\Asp.net\Numbers\Numbers\bin\Debug\Numbers.exe.config
+D:\Asp.net\Numbers\Numbers\bin\Debug\Numbers.exe
+D:\Asp.net\Numbers\Numbers\bin\Debug\Numbers.pdb
+D:\Asp.net\Numbers\Numbers\obj\Debug\Numbers.exe
+D:\Asp.net\Numbers\Numbers\obj\Debug\Numbers.pdb

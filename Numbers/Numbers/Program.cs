@@ -16,7 +16,6 @@ namespace Numbers
 
         static string Order(string input)
         {
-            string strWeight="";
             List<NewWeight> newWeights = new List<NewWeight>();
 
             foreach (var str in input.Split(new char[] { ' ' }))
@@ -35,11 +34,7 @@ namespace Numbers
 
             }
 
-
-            foreach (NewWeight str in newWeights.OrderBy(i => i.realWeaight).OrderBy(y => y.miracleWeight))
-            {
-                strWeight += str.realWeaight + " ";
-            }
+            string strWeight = string.Join(" ", newWeights.OrderBy(i => i.realWeaight).OrderBy(y => y.miracleWeight).Select(p => p.realWeaight));
 
             return strWeight;
         }
